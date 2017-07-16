@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Silverowe Straty</string>
+
+    <string-array name="mapy">
+        <item>Mirage</item>
+    </string-array>
+
+    <string-array name="stany">
+        <item>Full buy</item>
+    </string-array>
+
+    <string-array name="taktyki_mirage_full">
+        <item>Rush rampę</item>
+        <item>Rush pałac lub peek z awp</item>
+        <item>Rush B</item>
+        <item>Rush connector</item>
+        <item>Rush short</item>
+        <item>Czekasz do 1:00 i rampa na shifcie</item>
+        <item>Czekasz do 1:00 i pałac na shifcie</item>
+        <item>Czekasz do 1:00 i B na shifcie</item>
+        <item>Czekasz do 1:00 i mid na shifcie</item>
+        <item>Czekasz do 1:00 i łącznik na shifcie</item>
+        <item>Rzucasz smoke na CT i wbijasz 1:30</item>
+        <item>Rzucasz smoke na dżunglę i wbijasz 1:30</item>
+        <item>Rzucasz smoke na schody i wbijasz 1:30</item>
+        <item>Rzucasz smoke na okno i wbijasz shorta 1:30</item>
+        <item>Rzucasz smoke na short i wbijasz konektor 1:30</item>
+        <item>Robisz obiegówkę! (jaką chcesz)</item>
+        <item>Robisz fake na rampie 1:30</item>
+        <item>Robisz fake w pałacu 1:30</item>
+        <item>Robisz fake na B 1:30</item>
+        <item>Robisz fake na midzie 1:30</item>
+        <item>Rushujesz rampę na shifcie</item>
+    </string-array>
+</resources>
