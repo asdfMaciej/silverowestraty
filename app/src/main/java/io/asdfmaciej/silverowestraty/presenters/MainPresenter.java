@@ -31,6 +31,7 @@ public class MainPresenter {
         }
         Map mirage = new HashMap();
         mirage.put("Full buy", R.array.taktyki_mirage_full);
+        mirage.put("Pistol", R.array.taktyki_mirage_pistol);
         Map mapy = new HashMap();
         mapy.put("Mirage", mirage);
 

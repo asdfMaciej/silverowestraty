@@ -7,6 +7,7 @@
 
     <string-array name="stany">
         <item>Full buy</item>
+        <item>Pistol</item>
     </string-array>
 
     <string-array name="taktyki_mirage_full">
@@ -31,5 +32,54 @@
         <item>Robisz fake na B 1:30</item>
         <item>Robisz fake na midzie 1:30</item>
         <item>Rushujesz rampę na shifcie</item>
+        <item>Wchodzisz na A przez B od kuchni</item>
+    </string-array>
+
+    <string-array name="taktyki_mirage_pistol">
+        <item>Wabik na rampę i wbijasz rampą</item>
+        <item>Wabik na pałac i wbijasz pałacem</item>
+        <item>Wabik na B i wbijasz na B</item>
+        <item>Wabik na mida i wbijasz shortem</item>
+        <item>Wabik na mida i wbijasz connectorem</item>
+        <item>Wabik na rampę i wbijasz pałacem</item>
+        <item>Wabik na rampę i wbijasz na mida</item>
+        <item>Wabik na B i wbijasz underem na A</item>
+        <item>Wabik na B i wbijasz na shifcie</item>
+        <item>Wabik na rampę i wbijasz na shifcie</item>
+        <item>Wabik na pałac i wbijasz po 10s na shifcie</item>
+        <item>Robisz obiegówkę (jaką chcesz)</item>
+        <item>Czekasz do 1:00 i rampa na shifcie</item>
+        <item>Czekasz do 1:00 i pałac na shifcie</item>
+        <item>Czekasz do 1:00 i B na shifcie</item>
+        <item>Czekasz do 1:00 i mid na shifcie</item>
+        <item>Czekasz do 1:00 i łącznik na shifcie</item>
+        <item>Rushujesz rampę na shifcie</item>
+        <item>Wchodzisz na A przez B od kuchni</item>
+        <item>Śledzisz topfraggera</item>
+    </string-array>
+
+    <string-array name="taktyki_cache_full">
+        <item>Rush main</item>
+        <item>Rush short przez mida lub peek z awp</item>
+        <item>Rush B</item>
+        <item>Rush squeaky</item>
+        <item>Rush venty</item>
+        <item>Czekasz do 1:00 i main na shifcie</item>
+        <item>Czekasz do 1:00 i short na shifcie</item>
+        <item>Czekasz do 1:00 i B na shifcie</item>
+        <item>Czekasz do 1:00 i squeaky na shifcie</item>
+        <item></item>
+        <item>Rzucasz smoke na CT i wbijasz 1:30</item>
+        <item>Rzucasz smoke na dżunglę i wbijasz 1:30</item>
+        <item>Rzucasz smoke na schody i wbijasz 1:30</item>
+        <item>Rzucasz smoke na okno i wbijasz shorta 1:30</item>
+        <item>Rzucasz smoke na short i wbijasz konektor 1:30</item>
+        <item>Robisz obiegówkę! (jaką chcesz)</item>
+        <item>Robisz fake na rampie 1:30</item>
+        <item>Robisz fake w pałacu 1:30</item>
+        <item>Robisz fake na B 1:30</item>
+        <item>Robisz fake na midzie 1:30</item>
+        <item>Rushujesz rampę na shifcie</item>
+        <item>Wchodzisz na A przez B od kuchni</item>
     </string-array>
 </resources>
